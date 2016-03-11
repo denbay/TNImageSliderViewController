@@ -8,8 +8,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "TNImageSliderViewController"
-  s.version          = "0.1.0"
+  s.name             = "VKImageSliderViewController"
+  s.version          = "0.1"
   s.summary          = "A Swift image slider component based on UICollectionView"
   s.homepage         = "https://github.com/denbay/TNImageSliderViewController"
   s.license          = 'MIT'
